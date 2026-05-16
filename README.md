@@ -21,3 +21,5 @@ Pague-se Primeiro: A regra de ouro é tratar o investimento como um "custo fixo"
 4. Gestão de Risco e Educação Contínua
 Você está adquirindo uma base técnica sobre conceitos como liquidez, marcação a mercado e diversificação. O aprendizado ensina a não ser "vítima" do mercado, mas alguém que entende os ciclos econômicos (Selic alta vs. Bolsa barata) para aproveitar janelas de oportunidade.
 Em resumo, este conteúdo é um guia de democratização financeira que prova ser possível começar com apenas R$ 1,00, desde que haja o download de uma "nova mentalidade" focada no longo prazo e na preservação do poder de compra contra a inflação.
+
+🔗 Link para o NotebookLM: https://notebooklm.google.com/notebook/01df1df6-bfd0-475e-bd27-2c3c64d99ce1
